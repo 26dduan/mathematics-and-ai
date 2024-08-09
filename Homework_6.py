@@ -1,4 +1,4 @@
-# completed in conjunction with Daniel Duan
+# completed in conjunction with Julian Guttierez
 
 import torch
 import torch.nn as nn
